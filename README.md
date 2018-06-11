@@ -12,7 +12,7 @@ For questions or issues please use the [Google Group](https://groups.google.com/
 # Using Darknet for Custom Object Detection with YOLOv2
 
 - Clone Darknet
-`git clone https://github.com/pjreddie/darknet.git`
+`git clone https://github.com/AlexeyAB/darknet.git`
 - Open the Makefile, and configure as per your system setup. 
 ``cd darknet``  
 ``vi Makefile``  
